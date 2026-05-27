@@ -115,3 +115,5 @@ Tracks workflow execution time, success rate, error rate, resource use, and thro
 AI-assisted development is not just prompting. It is a workflow design problem.
 
 This project shows how I think about practical agentic development; not as autonomous magic, but as structured collaboration between tools and a developer who remains accountable for the result.
+
+I am actively improving, extending, and testing this workflow with Claude Code and Codex.
