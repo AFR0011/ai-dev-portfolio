@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Map"
+  short_description: "Map repos and create onboarding docs."
+  default_prompt: "Inspect this repository, classify its shape, and create or update AGENTS.md, docs, and repo-local Codex config from repo evidence."
